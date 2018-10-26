@@ -1,1 +1,1 @@
-# sunday-repo
+# sundaycf
